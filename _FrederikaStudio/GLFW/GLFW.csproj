@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>$(MSBuildProjectName.Replace("GLFW", "FrederikaStudio.GLFW"))</RootNamespace>
+    <AssemblyName>$(MSBuildProjectName.Replace("GLFW", "FS_GLFW"))</AssemblyName>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FrederikaCore\FrederikaCore.csproj" />
+    <ProjectReference Include="..\Math\Math.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>$(MSBuildProjectName.Replace("FrederikaEngine", "FrederikaStudio.FrederikaEngine"))</RootNamespace>
+    <AssemblyName>$(MSBuildProjectName.Replace("FrederikaEngine", "FS_FrederikaEngine"))</AssemblyName>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="data\glfw\**" />
+    <EmbeddedResource Remove="data\glfw\**" />
+    <None Remove="data\glfw\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="data\Extensions.cs" />
+    <Compile Remove="data\Instance.cs" />
+    <Compile Remove="data\Internal.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GlmSharp" Version="0.9.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\GLFW\GLFW.csproj" />
+    <ProjectReference Include="..\NativeOpenGL\NativeOpenGL.csproj" />
+  </ItemGroup>
+
+</Project>

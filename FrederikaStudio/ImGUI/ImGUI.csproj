@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RootNamespace>$(MSBuildProjectName.Replace("ImGUI", "FrederikaStudio.ImGUI"))</RootNamespace>
+    <AssemblyName>$(MSBuildProjectName.Replace("ImGUI", "FS_ImGUI"))</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\LibLoader\LibLoader.csproj" />
+  </ItemGroup>
+
+</Project>

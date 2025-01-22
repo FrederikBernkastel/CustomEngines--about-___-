@@ -1,0 +1,20 @@
+﻿namespace FrederikaStudio.GLFW.Native;
+
+public delegate void WindowScrollCallback(Window window, double xoffset, double yoffset);
+public delegate void MonitorCallback(Monitor monitor, ConnectionStatus @event);
+public delegate void ErrorCallback(Errors error, string description);
+public delegate void WindowPositionCallback(Window window, int xpos, int ypos);
+public delegate void WindowSizeCallback(Window window, int width, int height);
+public delegate void WindowCloseCallback(Window window);
+public delegate void WindowRefreshCallback(Window window);
+public delegate void WindowFocusCallback(Window window, bool focused);
+public delegate void WindowIconifyCallback(Window window, bool iconifed);
+public delegate void WindowMaximizeCallback(Window window, bool maximized);
+public delegate void FrameBufferSizeCallback(Window window, int width, int height);
+public delegate void WindowContentScaleCallback(Window window, float xscale, float yscale);
+public delegate void MouseButtonCallback(Window window, MouseButton button, InputState action, Mods mods);
+public delegate void CursorPositionCallback(Window window, double xpos, double ypos);
+public delegate void CursorEnterCallback(Window window, bool entered);
+public delegate void KeyCallback(Window window, Keys key, int scancode, InputState action, Mods mods);
+public delegate void CharCallback(Window window, uint codepoint);
+public delegate void CharModsCallback(Window window, uint codepoint, Mods mods);

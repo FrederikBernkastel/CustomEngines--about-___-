@@ -1,0 +1,17 @@
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\ImGUI.csproj.AssemblyReference.cache
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\ImGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\ImGUI.AssemblyInfoInputs.cache
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\ImGUI.AssemblyInfo.cs
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\ImGUI.csproj.CoreCompileInputs.cache
+D:\code\FrederikaStudio\ImGUI\bin\Debug\net6.0\FS_ImGUI.deps.json
+D:\code\FrederikaStudio\ImGUI\bin\Debug\net6.0\FS_ImGUI.dll
+D:\code\FrederikaStudio\ImGUI\bin\Debug\net6.0\FS_ImGUI.pdb
+D:\code\FrederikaStudio\ImGUI\bin\Debug\net6.0\FS_LibLoader.dll
+D:\code\FrederikaStudio\ImGUI\bin\Debug\net6.0\FS_LibLoader.pdb
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\ImGUI.csproj.CopyComplete
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\FS_ImGUI.dll
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\refint\FS_ImGUI.dll
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\FS_ImGUI.pdb
+D:\code\FrederikaStudio\ImGUI\obj\Debug\net6.0\ref\FS_ImGUI.dll
+D:\code\FrederikaStudio\ImGUI\bin\Debug\net6.0\FS_Core.dll
+D:\code\FrederikaStudio\ImGUI\bin\Debug\net6.0\FS_Core.pdb

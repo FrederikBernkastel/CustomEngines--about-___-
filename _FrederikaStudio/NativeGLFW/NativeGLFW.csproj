@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>$(MSBuildProjectName.Replace("NativeGLFW", "FrederikaStudio.GLFW.Native"))</RootNamespace>
+    <AssemblyName>$(MSBuildProjectName.Replace("NativeGLFW", "FS_GLFW_Native"))</AssemblyName>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FrederikaCore\FrederikaCore.csproj" />
+    <ProjectReference Include="..\LibraryLoader\LibraryLoader.csproj" />
+  </ItemGroup>
+
+</Project>

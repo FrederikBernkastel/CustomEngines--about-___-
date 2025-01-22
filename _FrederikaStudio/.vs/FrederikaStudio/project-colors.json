@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abd58b43-0d5d-4766-a869-76163b77ec9c": {
+      "ProjectGuid": "abd58b43-0d5d-4766-a869-76163b77ec9c",
+      "DisplayName": "Consol",
+      "ColorIndex": 0
+    },
+    "f539378f-7264-42db-b0af-a4065aedf264": {
+      "ProjectGuid": "f539378f-7264-42db-b0af-a4065aedf264",
+      "DisplayName": "FrederikaMath.Code",
+      "ColorIndex": 1
+    },
+    "b6ceb02c-c86c-4d2f-b37f-e547f522b8b8": {
+      "ProjectGuid": "b6ceb02c-c86c-4d2f-b37f-e547f522b8b8",
+      "DisplayName": "FrederikaMath.Test",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "9b553694-c758-4dff-9998-3f07b525a5be": {
+      "ProjectGuid": "9b553694-c758-4dff-9998-3f07b525a5be",
+      "DisplayName": "FrederikaMath.Code",
+      "ColorIndex": 3
+    },
+    "47187f4d-f463-4868-98bc-f646dcd63baf": {
+      "ProjectGuid": "47187f4d-f463-4868-98bc-f646dcd63baf",
+      "DisplayName": "FrederikaEngine.Code",
+      "ColorIndex": 4
+    },
+    "7184fedb-a669-4c6b-b6ed-fc087fcd0cc6": {
+      "ProjectGuid": "7184fedb-a669-4c6b-b6ed-fc087fcd0cc6",
+      "DisplayName": "FrederikaEngine.Test",
+      "ColorIndex": 5
+    },
+    "57293691-87db-4780-880c-20adc0293389": {
+      "ProjectGuid": "57293691-87db-4780-880c-20adc0293389",
+      "DisplayName": "FrederikaAdderley.Code",
+      "ColorIndex": 6
+    },
+    "2408e79f-4a9e-4413-a99a-fbe69b16b785": {
+      "ProjectGuid": "2408e79f-4a9e-4413-a99a-fbe69b16b785",
+      "DisplayName": "FrederikaEngine.v_0_0_1.Code",
+      "ColorIndex": 7
+    },
+    "2d03c44b-8348-4178-a95f-db3438247454": {
+      "ProjectGuid": "2d03c44b-8348-4178-a95f-db3438247454",
+      "DisplayName": "FrederikaEngine.SFML.Code",
+      "ColorIndex": 8
+    },
+    "b8d58f8a-924e-46ba-96a6-30804688fd6d": {
+      "ProjectGuid": "b8d58f8a-924e-46ba-96a6-30804688fd6d",
+      "DisplayName": "FrederikaEngine.Console.Code",
+      "ColorIndex": 9
+    },
+    "1efbd52b-2a19-4227-ade8-887df37928bb": {
+      "ProjectGuid": "1efbd52b-2a19-4227-ade8-887df37928bb",
+      "DisplayName": "FrederikaEngine.Test",
+      "ColorIndex": 10
+    },
+    "45f653df-0beb-44db-b454-a0467ba1666f": {
+      "ProjectGuid": "45f653df-0beb-44db-b454-a0467ba1666f",
+      "DisplayName": "FrederikaBuildCodeCSharp.Code",
+      "ColorIndex": 11
+    },
+    "ace3638e-79fc-43c5-ac24-382722d44627": {
+      "ProjectGuid": "ace3638e-79fc-43c5-ac24-382722d44627",
+      "DisplayName": "FrederikaBuildCodeCSharp.Test",
+      "ColorIndex": 12
+    },
+    "73a21065-f0ad-40b4-9adf-32db72526d2b": {
+      "ProjectGuid": "73a21065-f0ad-40b4-9adf-32db72526d2b",
+      "DisplayName": "FrederikaLibLoader.Code",
+      "ColorIndex": 13
+    },
+    "0de91c9a-bffd-48d6-9b48-bf1593b80b3a": {
+      "ProjectGuid": "0de91c9a-bffd-48d6-9b48-bf1593b80b3a",
+      "DisplayName": "FrederikaLibLoader.Test",
+      "ColorIndex": 14
+    },
+    "258dcfbb-f9ab-4740-8881-0adf83fc38b4": {
+      "ProjectGuid": "258dcfbb-f9ab-4740-8881-0adf83fc38b4",
+      "DisplayName": "FrederikaOpenGL.Code",
+      "ColorIndex": 15
+    },
+    "d922b816-5eb5-483a-844a-94243781ee3c": {
+      "ProjectGuid": "d922b816-5eb5-483a-844a-94243781ee3c",
+      "DisplayName": "NativeGLFW",
+      "ColorIndex": 0
+    },
+    "8bdfcda7-bf20-4b82-bc83-633c30d2f1fd": {
+      "ProjectGuid": "8bdfcda7-bf20-4b82-bc83-633c30d2f1fd",
+      "DisplayName": "LibLoader.Code",
+      "ColorIndex": 1
+    },
+    "abb21959-d1d1-4a31-b98e-4f337d7cb2eb": {
+      "ProjectGuid": "abb21959-d1d1-4a31-b98e-4f337d7cb2eb",
+      "DisplayName": "NativeGLFW.Code",
+      "ColorIndex": 2
+    },
+    "2089493e-5357-4628-ae2b-1ea4f16e52fe": {
+      "ProjectGuid": "2089493e-5357-4628-ae2b-1ea4f16e52fe",
+      "DisplayName": "Math.Code",
+      "ColorIndex": 3
+    },
+    "0082a9ce-814f-426b-8d24-2084fb21ecd9": {
+      "ProjectGuid": "0082a9ce-814f-426b-8d24-2084fb21ecd9",
+      "DisplayName": "NativeConsole.Code",
+      "ColorIndex": 4
+    },
+    "d72f9a83-85e7-41f8-89f1-1b1e3571be37": {
+      "ProjectGuid": "d72f9a83-85e7-41f8-89f1-1b1e3571be37",
+      "DisplayName": "BuildCodeCSharp.Code",
+      "ColorIndex": 5
+    },
+    "c6516ac9-9297-410b-a295-bc804cf65035": {
+      "ProjectGuid": "c6516ac9-9297-410b-a295-bc804cf65035",
+      "DisplayName": "NativeOpenGL.Code",
+      "ColorIndex": 6
+    },
+    "7e6f75d4-aa60-4c37-aa99-2f7ea9d851a1": {
+      "ProjectGuid": "7e6f75d4-aa60-4c37-aa99-2f7ea9d851a1",
+      "DisplayName": "LegendOfTheEasternWitch.Code",
+      "ColorIndex": 7
+    },
+    "a573b817-149f-42d0-910e-ebffe6f81071": {
+      "ProjectGuid": "a573b817-149f-42d0-910e-ebffe6f81071",
+      "DisplayName": "ContextGLFW.Code",
+      "ColorIndex": 8
+    },
+    "af160188-acd2-4607-9d95-73d8841c238b": {
+      "ProjectGuid": "af160188-acd2-4607-9d95-73d8841c238b",
+      "DisplayName": "FrederikaCore.Code",
+      "ColorIndex": 9
+    },
+    "92e440d0-2197-4acb-861f-53f5a94f7af5": {
+      "ProjectGuid": "92e440d0-2197-4acb-861f-53f5a94f7af5",
+      "DisplayName": "Core.Code",
+      "ColorIndex": 10
+    },
+    "e60d7f50-c534-429a-9b2c-bd0d9aa5f843": {
+      "ProjectGuid": "e60d7f50-c534-429a-9b2c-bd0d9aa5f843",
+      "DisplayName": "LibLoader.Interfaces",
+      "ColorIndex": 11
+    },
+    "c2680002-8869-4861-af2e-b4a4051641cc": {
+      "ProjectGuid": "c2680002-8869-4861-af2e-b4a4051641cc",
+      "DisplayName": "NativeGLFW.Interfaces",
+      "ColorIndex": 12
+    },
+    "5bf02599-e358-46f9-8b15-f7e366a5837f": {
+      "ProjectGuid": "5bf02599-e358-46f9-8b15-f7e366a5837f",
+      "DisplayName": "Math.Code",
+      "ColorIndex": 13
+    },
+    "4b6ec3ff-15eb-46ce-89aa-87491c154cfa": {
+      "ProjectGuid": "4b6ec3ff-15eb-46ce-89aa-87491c154cfa",
+      "DisplayName": "ContextGLFW.Interfaces",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

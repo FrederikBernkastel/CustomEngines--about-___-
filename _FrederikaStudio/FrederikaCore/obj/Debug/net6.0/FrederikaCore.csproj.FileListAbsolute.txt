@@ -1,0 +1,12 @@
+D:\code\FrederikaStudio\FrederikaCore\bin\Debug\net6.0\FS_Core.deps.json
+D:\code\FrederikaStudio\FrederikaCore\bin\Debug\net6.0\FS_Core.dll
+D:\code\FrederikaStudio\FrederikaCore\bin\Debug\net6.0\FS_Core.pdb
+D:\code\FrederikaStudio\FrederikaCore\obj\Debug\net6.0\FrederikaCore.csproj.AssemblyReference.cache
+D:\code\FrederikaStudio\FrederikaCore\obj\Debug\net6.0\FrederikaCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FrederikaStudio\FrederikaCore\obj\Debug\net6.0\FrederikaCore.AssemblyInfoInputs.cache
+D:\code\FrederikaStudio\FrederikaCore\obj\Debug\net6.0\FrederikaCore.AssemblyInfo.cs
+D:\code\FrederikaStudio\FrederikaCore\obj\Debug\net6.0\FrederikaCore.csproj.CoreCompileInputs.cache
+D:\code\FrederikaStudio\FrederikaCore\obj\Debug\net6.0\FS_Core.dll
+D:\code\FrederikaStudio\FrederikaCore\obj\Debug\net6.0\refint\FS_Core.dll
+D:\code\FrederikaStudio\FrederikaCore\obj\Debug\net6.0\FS_Core.pdb
+D:\code\FrederikaStudio\FrederikaCore\obj\Debug\net6.0\ref\FS_Core.dll

@@ -1,0 +1,130 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestEngine/1.0.0": {
+        "dependencies": {
+          "FS_Core": "1.0.0",
+          "FS_FrederikaEngine": "1.0.0"
+        },
+        "runtime": {
+          "TestEngine.dll": {}
+        }
+      },
+      "GlmSharp/0.9.8": {
+        "runtime": {
+          "lib/Net45/GlmSharp.dll": {
+            "assemblyVersion": "0.9.8.0",
+            "fileVersion": "0.9.8.0"
+          }
+        }
+      },
+      "FS_Core/1.0.0": {
+        "runtime": {
+          "FS_Core.dll": {}
+        }
+      },
+      "FS_FrederikaEngine/1.0.0": {
+        "dependencies": {
+          "FS_Core": "1.0.0",
+          "FS_GLFW": "1.0.0",
+          "FS_OpenGL": "1.0.0",
+          "GlmSharp": "0.9.8"
+        },
+        "runtime": {
+          "FS_FrederikaEngine.dll": {}
+        }
+      },
+      "FS_GLFW/1.0.0": {
+        "dependencies": {
+          "FS_Core": "1.0.0",
+          "FS_NativeGLFW": "1.0.0"
+        },
+        "runtime": {
+          "FS_GLFW.dll": {}
+        }
+      },
+      "FS_LibLoader/1.0.0": {
+        "runtime": {
+          "FS_LibLoader.dll": {}
+        }
+      },
+      "FS_NativeGLFW/1.0.0": {
+        "dependencies": {
+          "FS_Core": "1.0.0",
+          "FS_LibLoader": "1.0.0"
+        },
+        "runtime": {
+          "FS_NativeGLFW.dll": {}
+        }
+      },
+      "FS_NativeOpenGL/1.0.0": {
+        "runtime": {
+          "FS_NativeOpenGL.dll": {}
+        }
+      },
+      "FS_OpenGL/1.0.0": {
+        "dependencies": {
+          "FS_Core": "1.0.0",
+          "FS_NativeOpenGL": "1.0.0"
+        },
+        "runtime": {
+          "FS_OpenGL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GlmSharp/0.9.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-09/3MF8WhtFwfrE7bHwzhDhVTAQB2OvbzNVHLT8NFwNIdnGrud6PcyplHBxOaw2MMsgfm2cYsgwkj1YGttupwg==",
+      "path": "glmsharp/0.9.8",
+      "hashPath": "glmsharp.0.9.8.nupkg.sha512"
+    },
+    "FS_Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_FrederikaEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_GLFW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_LibLoader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_NativeGLFW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_NativeOpenGL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_OpenGL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>$(MSBuildProjectName.Replace("FrederikaEngine", "FrederikaStudio.FrederikaEngine"))</RootNamespace>
+    <AssemblyName>$(MSBuildProjectName.Replace("FrederikaEngine", "FS_FrederikaEngine"))</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NativeOpenGL\NativeOpenGL.csproj" />
+  </ItemGroup>
+
+</Project>

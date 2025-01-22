@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>$(MSBuildProjectName.Replace("NativeOpenGL", "FrederikaStudio.OpenGL.Native"))</RootNamespace>
+    <AssemblyName>$(MSBuildProjectName.Replace("NativeOpenGL", "FS_NativeOpenGL"))</AssemblyName>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="data\enums\**" />
+    <EmbeddedResource Remove="data\enums\**" />
+    <None Remove="data\enums\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\NativeOpenGL.csproj.AssemblyReference.cache
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\NativeOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\NativeOpenGL.AssemblyInfoInputs.cache
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\NativeOpenGL.AssemblyInfo.cs
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\NativeOpenGL.csproj.CoreCompileInputs.cache
+D:\code\FrederikaStudio\NativeOpenGL\bin\Debug\net6.0\FS_LibraryLoader.dll
+D:\code\FrederikaStudio\NativeOpenGL\bin\Debug\net6.0\FS_LibraryLoader.pdb
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\NativeOpenGL.csproj.CopyComplete
+D:\code\FrederikaStudio\NativeOpenGL\bin\Debug\net6.0\FS_OpenGL_Native.deps.json
+D:\code\FrederikaStudio\NativeOpenGL\bin\Debug\net6.0\FS_OpenGL_Native.dll
+D:\code\FrederikaStudio\NativeOpenGL\bin\Debug\net6.0\FS_OpenGL_Native.pdb
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\FS_OpenGL_Native.dll
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\refint\FS_OpenGL_Native.dll
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\FS_OpenGL_Native.pdb
+D:\code\FrederikaStudio\NativeOpenGL\obj\Debug\net6.0\ref\FS_OpenGL_Native.dll

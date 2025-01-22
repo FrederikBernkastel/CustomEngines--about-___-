@@ -1,0 +1,12 @@
+D:\code\FrederikaStudio\LibraryLoader\bin\Debug\net6.0\FS_LibraryLoader.deps.json
+D:\code\FrederikaStudio\LibraryLoader\bin\Debug\net6.0\FS_LibraryLoader.dll
+D:\code\FrederikaStudio\LibraryLoader\bin\Debug\net6.0\FS_LibraryLoader.pdb
+D:\code\FrederikaStudio\LibraryLoader\obj\Debug\net6.0\LibraryLoader.csproj.AssemblyReference.cache
+D:\code\FrederikaStudio\LibraryLoader\obj\Debug\net6.0\LibraryLoader.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FrederikaStudio\LibraryLoader\obj\Debug\net6.0\LibraryLoader.AssemblyInfoInputs.cache
+D:\code\FrederikaStudio\LibraryLoader\obj\Debug\net6.0\LibraryLoader.AssemblyInfo.cs
+D:\code\FrederikaStudio\LibraryLoader\obj\Debug\net6.0\LibraryLoader.csproj.CoreCompileInputs.cache
+D:\code\FrederikaStudio\LibraryLoader\obj\Debug\net6.0\FS_LibraryLoader.dll
+D:\code\FrederikaStudio\LibraryLoader\obj\Debug\net6.0\refint\FS_LibraryLoader.dll
+D:\code\FrederikaStudio\LibraryLoader\obj\Debug\net6.0\FS_LibraryLoader.pdb
+D:\code\FrederikaStudio\LibraryLoader\obj\Debug\net6.0\ref\FS_LibraryLoader.dll

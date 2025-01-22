@@ -1,0 +1,17 @@
+D:\code\FrederikaStudio\NativeGLFW\bin\Debug\net6.0\FS_NativeGLFW.deps.json
+D:\code\FrederikaStudio\NativeGLFW\bin\Debug\net6.0\FS_NativeGLFW.dll
+D:\code\FrederikaStudio\NativeGLFW\bin\Debug\net6.0\FS_NativeGLFW.pdb
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\NativeGLFW.csproj.AssemblyReference.cache
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\NativeGLFW.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\NativeGLFW.AssemblyInfoInputs.cache
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\NativeGLFW.AssemblyInfo.cs
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\NativeGLFW.csproj.CoreCompileInputs.cache
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\FS_NativeGLFW.dll
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\refint\FS_NativeGLFW.dll
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\FS_NativeGLFW.pdb
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\ref\FS_NativeGLFW.dll
+D:\code\FrederikaStudio\NativeGLFW\bin\Debug\net6.0\FS_LibLoader.dll
+D:\code\FrederikaStudio\NativeGLFW\bin\Debug\net6.0\FS_LibLoader.pdb
+D:\code\FrederikaStudio\NativeGLFW\obj\Debug\net6.0\NativeGLFW.csproj.CopyComplete
+D:\code\FrederikaStudio\NativeGLFW\bin\Debug\net6.0\FS_Core.dll
+D:\code\FrederikaStudio\NativeGLFW\bin\Debug\net6.0\FS_Core.pdb

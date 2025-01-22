@@ -1,0 +1,183 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FS_FrederikaEngine/1.0.0": {
+        "dependencies": {
+          "FS_GLFW_Native": "1.0.0",
+          "FS_LibraryLoader": "1.0.0",
+          "FS_OpenGL_Native": "1.0.0",
+          "Magick.NET-Q8-AnyCPU": "11.2.0"
+        },
+        "runtime": {
+          "FS_FrederikaEngine.dll": {}
+        }
+      },
+      "Magick.NET-Q8-AnyCPU/11.2.0": {
+        "dependencies": {
+          "Magick.NET.Core": "11.2.0"
+        },
+        "runtime": {
+          "lib/netstandard21/Magick.NET-Q8-AnyCPU.dll": {
+            "assemblyVersion": "11.2.0.0",
+            "fileVersion": "11.2.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/Magick.Native-Q8-arm64.dll.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-musl-x64/native/Magick.Native-Q8-x64.dll.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/Magick.Native-Q8-x64.dll.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/Magick.Native-Q8-x64.dll.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/Magick.Native-Q8-arm64.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "7.1.0.37"
+          },
+          "runtimes/win-x64/native/Magick.Native-Q8-x64.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "7.1.0.37"
+          },
+          "runtimes/win-x86/native/Magick.Native-Q8-x86.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "7.1.0.37"
+          }
+        }
+      },
+      "Magick.NET.Core/11.2.0": {
+        "runtime": {
+          "lib/netstandard21/Magick.NET.Core.dll": {
+            "assemblyVersion": "11.2.0.0",
+            "fileVersion": "11.2.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/5.0.0": {},
+      "SixLabors.ImageSharp/2.1.1": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "5.0.0",
+          "System.Text.Encoding.CodePages": "5.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/5.0.0": {},
+      "System.Text.Encoding.CodePages/5.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0"
+        }
+      },
+      "FS_GLFW_Native/1.0.0": {
+        "dependencies": {
+          "FS_LibraryLoader": "1.0.0",
+          "SixLabors.ImageSharp": "2.1.1"
+        },
+        "runtime": {
+          "FS_GLFW_Native.dll": {}
+        }
+      },
+      "FS_LibraryLoader/1.0.0": {
+        "runtime": {
+          "FS_LibraryLoader.dll": {}
+        }
+      },
+      "FS_OpenGL_Native/1.0.0": {
+        "dependencies": {
+          "FS_LibraryLoader": "1.0.0"
+        },
+        "runtime": {
+          "FS_OpenGL_Native.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FS_FrederikaEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magick.NET-Q8-AnyCPU/11.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-np8hs4S91+UMCbTDyWdKoKCfxrQRoBq6sXfyqaegZ5FqzIHk9u8AL7eWdTVlruuqgW1jWn0UcZyA1sPCk5Gz4A==",
+      "path": "magick.net-q8-anycpu/11.2.0",
+      "hashPath": "magick.net-q8-anycpu.11.2.0.nupkg.sha512"
+    },
+    "Magick.NET.Core/11.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LgfWnoN/5jRNYjadp/2UVNPp6yDFYZ82JY3N6n6WqwPq3x8yKhicJNYpb8GkOSIooPKA+jIgAM+8m3nXaFcN0g==",
+      "path": "magick.net.core/11.2.0",
+      "hashPath": "magick.net.core.11.2.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VyPlqzH2wavqquTcYpkIIAQ6WdenuKoFN0BdYBbCWsclXacSOHNQn66Gt4z5NBqEYW0FAPm5rlvki9ZiCij5xQ==",
+      "path": "microsoft.netcore.platforms/5.0.0",
+      "hashPath": "microsoft.netcore.platforms.5.0.0.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oNHMT8+yUR9dyuU2r7fwsXvvS4OnfCs9N5i2y2p9iBxp3nvEZbe/hZWrOGfD7MX2lxOAlWzlhzj0q2uFwP8avg==",
+      "path": "sixlabors.imagesharp/2.1.1",
+      "hashPath": "sixlabors.imagesharp.2.1.1.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZD9TMpsmYJLrxbbmdvhwt9YEgG5WntEnZ/d1eH8JBX9LBp+Ju8BSBhUGbZMNVHHomWo2KVImJhTDl2hIgw/6MA==",
+      "path": "system.runtime.compilerservices.unsafe/5.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NyscU59xX6Uo91qvhOs2Ccho3AR2TnZPomo1Z0K6YpyztBPM/A5VbkzOO19sy3A3i1TtEnTxA7bCe3Us+r5MWg==",
+      "path": "system.text.encoding.codepages/5.0.0",
+      "hashPath": "system.text.encoding.codepages.5.0.0.nupkg.sha512"
+    },
+    "FS_GLFW_Native/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_LibraryLoader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_OpenGL_Native/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

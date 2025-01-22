@@ -1,0 +1,5 @@
+D:\code\FrederikaStudio\Veldrid\obj\Debug\net6.0\Veldrid.csproj.AssemblyReference.cache
+D:\code\FrederikaStudio\Veldrid\obj\Debug\net6.0\Veldrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FrederikaStudio\Veldrid\obj\Debug\net6.0\Veldrid.AssemblyInfoInputs.cache
+D:\code\FrederikaStudio\Veldrid\obj\Debug\net6.0\Veldrid.AssemblyInfo.cs
+D:\code\FrederikaStudio\Veldrid\obj\Debug\net6.0\Veldrid.csproj.CoreCompileInputs.cache

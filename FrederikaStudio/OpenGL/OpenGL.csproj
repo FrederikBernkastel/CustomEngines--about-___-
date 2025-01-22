@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>$(MSBuildProjectName.Replace("OpenGL", "FrederikaStudio.OpenGL"))</RootNamespace>
+    <AssemblyName>$(MSBuildProjectName.Replace("OpenGL", "FS_OpenGL"))</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="data\Texture.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\NativeOpenGL\NativeOpenGL.csproj" />
+  </ItemGroup>
+
+</Project>

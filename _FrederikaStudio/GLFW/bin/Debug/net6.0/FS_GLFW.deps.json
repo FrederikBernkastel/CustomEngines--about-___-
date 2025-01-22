@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FS_GLFW/1.0.0": {
+        "dependencies": {
+          "FS_Core": "1.0.0",
+          "FS_Math": "1.0.0"
+        },
+        "runtime": {
+          "FS_GLFW.dll": {}
+        }
+      },
+      "FS_Core/1.0.0": {
+        "runtime": {
+          "FS_Core.dll": {}
+        }
+      },
+      "FS_Math/1.0.0": {
+        "runtime": {
+          "FS_Math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FS_GLFW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS_Math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

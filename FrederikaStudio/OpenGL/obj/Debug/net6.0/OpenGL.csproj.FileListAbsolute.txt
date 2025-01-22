@@ -1,0 +1,17 @@
+D:\code\FrederikaStudio\OpenGL\bin\Debug\net6.0\FS_OpenGL.deps.json
+D:\code\FrederikaStudio\OpenGL\bin\Debug\net6.0\FS_OpenGL.dll
+D:\code\FrederikaStudio\OpenGL\bin\Debug\net6.0\FS_OpenGL.pdb
+D:\code\FrederikaStudio\OpenGL\bin\Debug\net6.0\FS_Core.dll
+D:\code\FrederikaStudio\OpenGL\bin\Debug\net6.0\FS_NativeOpenGL.dll
+D:\code\FrederikaStudio\OpenGL\bin\Debug\net6.0\FS_Core.pdb
+D:\code\FrederikaStudio\OpenGL\bin\Debug\net6.0\FS_NativeOpenGL.pdb
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\OpenGL.csproj.AssemblyReference.cache
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\OpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\OpenGL.AssemblyInfoInputs.cache
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\OpenGL.AssemblyInfo.cs
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\OpenGL.csproj.CoreCompileInputs.cache
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\OpenGL.csproj.CopyComplete
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\FS_OpenGL.dll
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\refint\FS_OpenGL.dll
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\FS_OpenGL.pdb
+D:\code\FrederikaStudio\OpenGL\obj\Debug\net6.0\ref\FS_OpenGL.dll

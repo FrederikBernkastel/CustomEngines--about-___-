@@ -1,0 +1,12 @@
+D:\code\FrederikaStudio\Math\bin\Release\net6.0\FS_Math.deps.json
+D:\code\FrederikaStudio\Math\bin\Release\net6.0\FS_Math.dll
+D:\code\FrederikaStudio\Math\bin\Release\net6.0\FS_Math.pdb
+D:\code\FrederikaStudio\Math\obj\Release\net6.0\Math.csproj.AssemblyReference.cache
+D:\code\FrederikaStudio\Math\obj\Release\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FrederikaStudio\Math\obj\Release\net6.0\Math.AssemblyInfoInputs.cache
+D:\code\FrederikaStudio\Math\obj\Release\net6.0\Math.AssemblyInfo.cs
+D:\code\FrederikaStudio\Math\obj\Release\net6.0\Math.csproj.CoreCompileInputs.cache
+D:\code\FrederikaStudio\Math\obj\Release\net6.0\FS_Math.dll
+D:\code\FrederikaStudio\Math\obj\Release\net6.0\refint\FS_Math.dll
+D:\code\FrederikaStudio\Math\obj\Release\net6.0\FS_Math.pdb
+D:\code\FrederikaStudio\Math\obj\Release\net6.0\ref\FS_Math.dll

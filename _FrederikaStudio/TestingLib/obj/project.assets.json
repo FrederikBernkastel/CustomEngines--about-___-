@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FS_Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FS_Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FS_Core.dll": {}
+        }
+      },
+      "FS_GLFW/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FS_Core": "1.0.0",
+          "FS_Math": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FS_GLFW.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FS_GLFW.dll": {}
+        }
+      },
+      "FS_Math/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FS_Math.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FS_Math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FS_Core/1.0.0": {
+      "type": "project",
+      "path": "../FrederikaCore/FrederikaCore.csproj",
+      "msbuildProject": "../FrederikaCore/FrederikaCore.csproj"
+    },
+    "FS_GLFW/1.0.0": {
+      "type": "project",
+      "path": "../GLFW/GLFW.csproj",
+      "msbuildProject": "../GLFW/GLFW.csproj"
+    },
+    "FS_Math/1.0.0": {
+      "type": "project",
+      "path": "../Math/Math.csproj",
+      "msbuildProject": "../Math/Math.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FS_GLFW >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\code\\FrederikaStudio\\TestingLib\\TestingLib.csproj",
+      "projectName": "TestingLib",
+      "projectPath": "D:\\code\\FrederikaStudio\\TestingLib\\TestingLib.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "D:\\code\\FrederikaStudio\\TestingLib\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\code\\FrederikaStudio\\GLFW\\GLFW.csproj": {
+              "projectPath": "D:\\code\\FrederikaStudio\\GLFW\\GLFW.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

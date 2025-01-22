@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FS_LibraryLoader/1.0.0": {
+        "runtime": {
+          "FS_LibraryLoader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FS_LibraryLoader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

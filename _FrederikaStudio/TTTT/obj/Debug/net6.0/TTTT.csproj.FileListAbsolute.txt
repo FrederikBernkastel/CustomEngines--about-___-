@@ -1,0 +1,15 @@
+D:\code\FrederikaStudio\TTTT\bin\Debug\net6.0\TTTT.exe
+D:\code\FrederikaStudio\TTTT\bin\Debug\net6.0\TTTT.deps.json
+D:\code\FrederikaStudio\TTTT\bin\Debug\net6.0\TTTT.runtimeconfig.json
+D:\code\FrederikaStudio\TTTT\bin\Debug\net6.0\TTTT.dll
+D:\code\FrederikaStudio\TTTT\bin\Debug\net6.0\TTTT.pdb
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\TTTT.csproj.AssemblyReference.cache
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\TTTT.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\TTTT.AssemblyInfoInputs.cache
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\TTTT.AssemblyInfo.cs
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\TTTT.csproj.CoreCompileInputs.cache
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\TTTT.dll
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\refint\TTTT.dll
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\TTTT.pdb
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\TTTT.genruntimeconfig.cache
+D:\code\FrederikaStudio\TTTT\obj\Debug\net6.0\ref\TTTT.dll
